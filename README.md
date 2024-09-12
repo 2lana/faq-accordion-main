@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/2lana/faq-accordion-main)
+- Live Site URL: [netlify](https://astonishing-biscotti-91ea91.netlify.app/)
 
 ## My process
 
@@ -95,7 +95,7 @@ I want to continue focusing on in future projects. These could be concepts still
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [netlify](https://astonishing-biscotti-91ea91.netlify.app/)
 - Frontend Mentor - [@y2lana](https://www.frontendmentor.io/profile/2lana)
 
 ## Acknowledgments
